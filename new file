@@ -1,0 +1,36 @@
+JS Const
+We cannot reassign value
+Scope is within the block.
+
+JS Operators
+Operators are used to perform some operation on the operand or variable.
+
+JS Arithmetic
+This operators are used to perform the arithemetic operation such as +,-,*,/,etc.
+
+JS Assignment Operators
+The JS assignment operators are used to assign the value to the variables.
+
+JS Data Types
+The data types are the type of value which we will assign in our variable.
+
+JS Function
+Function are the block of statements that perform some specific task. The main advantage of using a function is code reusability.
+Syntax:
+function function-name()
+{
+//Statements
+}
+
+JS Objects
+Objects are the real world entity which have a property and a value assigned to it.
+
+JS Events
+Syntax:
+<element event='some JavaScript'>
+
+JS String
+String are character array.
+
+String Methods
+I have studied about some of the methods of the string.
